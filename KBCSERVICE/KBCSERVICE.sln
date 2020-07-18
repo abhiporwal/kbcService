@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBCSERVICE", "KBCSERVICE.csproj", "{EBA683AD-AD2B-480B-BB1C-2E05456D9DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\Repository\Repository.csproj", "{D36E57BF-A285-4A1E-A110-99E9B0563E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{90F92D13-B11E-417A-8A3E-6B8E61D2BD46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA683AD-AD2B-480B-BB1C-2E05456D9DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA683AD-AD2B-480B-BB1C-2E05456D9DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA683AD-AD2B-480B-BB1C-2E05456D9DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA683AD-AD2B-480B-BB1C-2E05456D9DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36E57BF-A285-4A1E-A110-99E9B0563E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36E57BF-A285-4A1E-A110-99E9B0563E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36E57BF-A285-4A1E-A110-99E9B0563E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36E57BF-A285-4A1E-A110-99E9B0563E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F92D13-B11E-417A-8A3E-6B8E61D2BD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F92D13-B11E-417A-8A3E-6B8E61D2BD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F92D13-B11E-417A-8A3E-6B8E61D2BD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F92D13-B11E-417A-8A3E-6B8E61D2BD46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D6B0FC-2B53-4A04-8BAD-9323FB1E3797}
+	EndGlobalSection
+EndGlobal
